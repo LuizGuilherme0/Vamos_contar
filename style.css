@@ -1,0 +1,24 @@
+body{
+    background-color: rgba(86, 86, 211, 0.836);
+    font: normal 15pt arial;
+}
+
+h1{
+    text-align: center;
+}
+
+header{
+    color: white;
+    
+}
+
+section{
+    background-color: white;
+    border-radius: 10px;
+    padding: 15px;
+    width: 500px;
+    margin: auto;
+    box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.363);
+    
+}
+
